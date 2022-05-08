@@ -34,4 +34,4 @@ This is a keras implementation of TRGS paper:*Spectral–Spatial Residual Networ
 ![CM](https://github.com/lzp-cumtb/SSRN/blob/main/pics/confusion_mat_without_norm.png)
 
 **Predict map:**
-![PM]()
+![PM](https://github.com/lzp-cumtb/SSRN/blob/main/pics/pred_map.jpg)
