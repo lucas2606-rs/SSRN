@@ -30,4 +30,8 @@ This is a keras implementation of TRGS paper:*Spectral–Spatial Residual Networ
                    macro avg       0.96      0.90      0.92      7175
                 weighted avg       0.96      0.96      0.96      7175
 
+**Confusion matrix:**
+![CM](https://github.com/lzp-cumtb/SSRN/blob/main/pics/confusion_mat_without_norm.png)
 
+**Predict map:**
+![PM]()
