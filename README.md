@@ -1,5 +1,5 @@
 # SSRN
-This is a keras implementation of TRGS paper:*Spectral–Spatial Residual Network for Hyperspectral Image Classification: A 3-D Deep Learning Framework*
+This is a keras reprodction of TRGS paper:*Spectral–Spatial Residual Network for Hyperspectral Image Classification: A 3-D Deep Learning Framework*
 ## Test result on Indian Pines Dataset using the author's best parameter configurations:
 **Test loss**: 0.14532101154327393  
 **Test acc**: 95.90243697166443%
